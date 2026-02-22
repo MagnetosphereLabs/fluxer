@@ -18,3 +18,6 @@ Fluxer is an open-source, independent instant messaging and VoIP platform. Built
 
 > [!NOTE]
 > Docs are coming very soon! With your help and [donations](https://fluxer.app/donate), the self-hosting and documentation story will get a lot better.
+
+> [!TIP]
+> Looking to self-host? See [INSTALLATION.md](./INSTALLATION.md) for a step-by-step Ubuntu VPS guide with Docker, Nginx, and Certbot.
